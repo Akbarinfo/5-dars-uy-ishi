@@ -90,33 +90,20 @@
 
 // N7
 
-// let ason = 100;
+let ason = 100;
 
-// for(let i = 2; i <= ason; i++) {
-//   let bson = true;
-//   for(let j = 2; j < i; j++) {
-//       if (i % j == 0) {
-//         bson = false;
-//         break;
-//       }
-//     }
-//   if (bson) {
-//     console.log(`${i} tubson`)
-//   }let ason = 50;
-// let count = 0;
-// for(let a = 1; a <= ason; a++) {
-//   for(let b = a+1; b <= ason; b++) {
-//     // for(let c = b+1; c <= ason; c++) {
-//       if(Number.isInteger((a**2 + b**2) ** 0.5) && (a**2 + b**2) ** 0.5 <= ason) {
-//         console.log(a, b, (a**2 + b**2) ** 0.5);
-
-//       }
-//       ++count;
-//     // }
-//   }
-// }
-// console.log(`${count} marta aylandi`);
-// console.log((Math.sqrt(25)))
+for(let i = 2; i <= ason; i++) {
+  let bson = true;
+  for(let j = 2; j < i; j++) {
+      if (i % j == 0) {
+        bson = false;
+        break;
+      }
+    }
+  if (bson) {
+    console.log(`${i} tubson`)
+  }
+}
 
 // N8
 
